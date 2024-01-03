@@ -21,11 +21,16 @@ In chapter five we go through all the generalizations of elementary functions (s
   <img src="https://github.com/hsnborn22/quaternionic-analysis/blob/main/imgs/functions.png"/>
 </div>
 
-Chapter six introduces the notion of quaternionic left and right regularity, in the sense of Fueter, and then proceeds to prove a quaternionic analogue of the Cauchy-Riemann equations (in this case called Cauchy-Riemann-Fueter equations), Cauchy's theorem, Cauchy's integral formula, Morera's theorem, Liouville's theorem and Taylor and Laurent series expansions.
+Chapter six introduces the notion of quaternionic left and right regularity, in the sense of Fueter, and then proceeds to prove a quaternionic analogue of the Cauchy-Riemann equations (in this case called Cauchy-Riemann-Fueter equations), Cauchy's theorem, Cauchy's integral formula, Morera's theorem, Liouville's theorem and Taylor and Laurent series expansions. 
 
 <div align="center">
   <img src="https://github.com/hsnborn22/quaternionic-analysis/blob/main/imgs/quatbackground.png"/>
 </div>
 
 
-Chapter seven goes through 3 alternative ways of developing analysis on quaternions.
+Chapter seven goes through 3 alternative ways of developing analysis on quaternions:
+
+
+* Analysis on Banach spaces.
+* Analysis on Banach modules.
+* The theory of slice regular quaternionic functions.
