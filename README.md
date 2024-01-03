@@ -16,7 +16,7 @@ The third chapter covers the geometric properties of quaternions; it proves, by 
 The fourth chapter is devoted to the topology of quaternions, quaternion sequences, quaternionic continuos functions, quaternionic series and the compactification of quaternions. Furthermore, a proof of the Eilenberg-Niven theorem is also provided. 
 
 
-In chapter five we go through all the generalizations of elementary functions (sine,cosine,exponential,logarithm,sinh,cosh,tanh,tan exc.) to the skew-field of quaternions, and we prove some results about them.
+In chapter five we go through all the generalizations of elementary functions (sine,cosine,exponential,logarithm,sinh,cosh,tanh,tan exc.) to the skew-field of quaternions, and we prove some results about them. Below I included a graphic visualization of the quaternionic hyperbolic sine function. 
 <div align="center">
   <img src="https://github.com/hsnborn22/quaternionic-analysis/blob/main/imgs/functions.png"/>
 </div>
