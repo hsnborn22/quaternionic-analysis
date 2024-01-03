@@ -3,7 +3,7 @@
   <h1>Quaternionic analysis</h1>
 </div>
 
-This monography is intended to be an introduction to the field of quaternionic analysis in a more accessible way. I believe in free knowledge, so I decided to make the book available here for everyone and completely for free in [english](quatAnalysisEng.pdf) and [italian](quatAnalysisIt.pdf).
+This monography is intended to be an introduction to the field of quaternionic analysis in a more accessible way. I believe in free knowledge, so I decided to make the book available here for everyone and completely for free in [english](quatAnalysisEng.pdf) and [italian](quatAnalysisIt.pdf). For readers who prefer a physical copy, however, I decided to also put a version for sale on amazon.
 
 The book starts with a treatise of the algebraic properties of the quaternions, including the properties of quaternionic polynomials and the study of the topological structures of their zero sets; this is done in the second chapter.
 
